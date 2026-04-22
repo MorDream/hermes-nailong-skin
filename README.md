@@ -15,3 +15,9 @@ into it
 ```
 ## Session-only
 /skin {your_file_name}
+
+步骤 1：创建目录（如果不存在）：
+
+mkdir -p ~/.hermes/skins/
+
+步骤 2：将同级目录下的 nailong.yaml 文件的内容复制并保存到 ~/.hermes/skins/ 文件夹中。
