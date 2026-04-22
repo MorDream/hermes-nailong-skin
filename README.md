@@ -5,8 +5,11 @@ a skin with the theme of nailong for hermes
 ```
 # first create(if do not exist)
 ~/.hermes/skins/{your_file_name}.yaml
+# and copy the content in
+→ [nailong.yaml](./nailong.yaml)
+into it
 
-# then change ~/.hermes/config.yaml:::::::::::::::::
+# then change ~/.hermes/config.yaml:
       display:
         skin: {your_file_name}
 ```
